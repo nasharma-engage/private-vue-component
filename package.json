@@ -1,5 +1,5 @@
 {
-  "name": "vue-private-component",
+  "name": "@nasharma-org/vue-private-component",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -38,5 +38,23 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasharma-engage/private-vue-component.git"
+  },
+  "keywords": [
+    "nasharvue",
+    "privatecomponent",
+    "vue",
+    "displaytext"
+  ],
+  "author": "Nancy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasharma-engage/private-vue-component/issues"
+  },
+  "homepage": "https://github.com/nasharma-engage/private-vue-component#readme"
 }
